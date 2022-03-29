@@ -2,4 +2,4 @@
 
 I used jQuery for this project.
 
-Please take a look by clicking [here](https://kemoleseng.github.io/Drum-Machine-by-Moleseng/)
+Please take a look by clicking [here](https://kemoleseng.github.io/Drum-Machine-by-keMoleseng/)
